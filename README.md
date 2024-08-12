@@ -14,22 +14,11 @@ Las reuniones de trabajo establecidas son:
 * Jueves: 6:00 p.m - Reunión de seguimiento 
 * Sábado: 3:00 p.m - Cierre de actividades 
 
-
-## Enlaces al Repositorio del Proyecto
-* [README]()
-* [WIKI]() 
-* [Arquitectura de información]()
-* [Código General de Aplicación Front End Web ]()
-* [Código General de Aplicación Front End móvil ]()
-* [Entregables Evaluables por Semanas]() 
-* [Sustentaciones en Video]()
-* [Documentación Páginas de la wiki del Proyecto]()
-* [Documentos PDF del Proyecto]()
-
-
 ## Entregas del Proyecto
 
 ## Semana 1 UX Research
+El problema principal identificado en esta encuesta es la necesidad de una aplicación móvil que no solo facilite la creación y gestión de listas de compras, sino que también ofrezca funcionalidades innovadoras y personalizadas que mejoren la experiencia del usuario en el supermercado. Los encuestados expresan interés en características que optimicen su tiempo y esfuerzo, como alertas personalizadas, recomendaciones basadas en preferencias, herramientas interactivas para seleccionar productos frescos, y funciones que permitan una experiencia de compra más eficiente y organizada. La aplicación ideal debería integrar estas funcionalidades creativas para satisfacer las necesidades particulares de los usuarios, facilitando y mejorando el proceso de compra en todos sus aspectos.
+
 - **Actividad:** 
   - Definicion del problema principal
 - **Entregable:**
