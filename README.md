@@ -35,6 +35,8 @@ Las reuniones de trabajo establecidas son:
 - **Entregable:**
   - [Design Scope canvas](https://miro.com/app/board/uXjVKqwph9g=/?share_link_id=576963829179)
   - [Encuesta](https://forms.gle/y3bL1WCkfeZseenC7)
+  - [Respuestas Encuesta](https://docs.google.com/spreadsheets/d/1inBKybhgKkDbejxYmKWY0NywMjPWOkSb9bs_Pc5POCA/edit?usp=sharing)
+  - [Canvas](https://miro.com/app/board/uXjVKqw88vY=/?share_link_id=344638653691)
 
 ## Semana 2 UX Research
 - **Actividades:**
