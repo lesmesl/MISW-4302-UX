@@ -27,31 +27,13 @@ El problema principal identificado en esta encuesta es la necesidad de una aplic
   - [Respuestas Encuesta](https://docs.google.com/spreadsheets/d/1inBKybhgKkDbejxYmKWY0NywMjPWOkSb9bs_Pc5POCA/edit?usp=sharing)
   - [Canvas](https://miro.com/app/board/uXjVKqw88vY=/?share_link_id=344638653691)
 
-## Semana 2 UX Research
-- **Actividades:**
-  - Definición del problema principal
-  - Comprensión de las necesidades
-  - Desarrollo del User persona
-  - Mapa de las acciones del usuario
-- **Entregables:**
-  - Documento consolidado de la investigación de usuarios
-  - User persona card
-  - User journey map  
-
-## Semana 2 UX Strategy
-- **Actividades:**
-  - Propuesta de solución
-  - Diseño de Interacción de Usuario
-  - Priorización de funcionalidades
-- **Entregables:**
-  - Mapa de sitio
-  - Mapa de navegación
-  - Lista de funcionalidades
-  - MVP list
-
+## Semana 2
 - **Entregable Evaluable Semana 2:**
-  - Documento consolidado de la Investigación de usuarios.
-  - Diagrama User Journey
+  - [Reporte Final Management Timer.pdf](https://github.com/user-attachments/files/16655262/Reporte.Final.Management.Timer.pdf)
+  - [User Persona Management Timer.pdf](https://github.com/user-attachments/files/16655263/User.Persona.Management.Timer.pdf)
+  - [User Journey Management Timer.pdf](https://github.com/user-attachments/files/16655265/User.Journey.Management.Timer.pdf)
+  - [Design Scope Management Timer.pdf](https://github.com/user-attachments/files/16655266/Design.Scope.Management.Timer.pdf)
+  - [Benchmark Management Timer.pdf](https://github.com/user-attachments/files/16655267/Benchmark.Management.Timer.pdf)
 
 ## Semana 3 Interaction Design
 - **Actividades:**
