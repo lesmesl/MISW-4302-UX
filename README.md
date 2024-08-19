@@ -28,12 +28,19 @@ El problema principal identificado en esta encuesta es la necesidad de una aplic
   - [Canvas](https://miro.com/app/board/uXjVKqw88vY=/?share_link_id=344638653691)
 
 ## Semana 2
-- **Entregable Evaluable Semana 2:**
+- **Desarrollos:**
   - [Reporte Final Management Timer.pdf](https://github.com/user-attachments/files/16655262/Reporte.Final.Management.Timer.pdf)
   - [User Persona Management Timer.pdf](https://github.com/user-attachments/files/16655263/User.Persona.Management.Timer.pdf)
   - [User Journey Management Timer.pdf](https://github.com/user-attachments/files/16655265/User.Journey.Management.Timer.pdf)
   - [Design Scope Management Timer.pdf](https://github.com/user-attachments/files/16655266/Design.Scope.Management.Timer.pdf)
   - [Benchmark Management Timer.pdf](https://github.com/user-attachments/files/16655267/Benchmark.Management.Timer.pdf)
+- **Investigaciones:**
+  - [Video Observación Sujeto 1](https://www.youtube.com/watch?v=u33i0YCilas)
+  - [Video Entrevista Sujeto 1](https://www.youtube.com/watch?v=r07NTEumK-A)
+  - [Video 5 Por Que Sujeto 1](https://www.youtube.com/watch?v=_3KAsgt4sX4)
+  - [Video Observación Sujeto 2](https://www.youtube.com/watch?v=wMhP1t5qCwE)
+  - [Video Entrevista Sujeto 2](https://www.youtube.com/watch?v=B1r6aNALgt4)
+  - [Video 5 Por Que Sujeto 2](https://www.youtube.com/watch?v=Rn4KrC1qYQA)
 
 ## Semana 3 Interaction Design
 - **Actividades:**
