@@ -17,15 +17,10 @@ Las reuniones de trabajo establecidas son:
 ## Entregas del Proyecto
 
 ## Semana 1 UX Research
-El problema principal identificado en esta encuesta es la necesidad de una aplicación móvil que no solo facilite la creación y gestión de listas de compras, sino que también ofrezca funcionalidades innovadoras y personalizadas que mejoren la experiencia del usuario en el supermercado. Los encuestados expresan interés en características que optimicen su tiempo y esfuerzo, como alertas personalizadas, recomendaciones basadas en preferencias, herramientas interactivas para seleccionar productos frescos, y funciones que permitan una experiencia de compra más eficiente y organizada. La aplicación ideal debería integrar estas funcionalidades creativas para satisfacer las necesidades particulares de los usuarios, facilitando y mejorando el proceso de compra en todos sus aspectos.
-
-- **Actividad:** 
-  - Definicion del problema principal
 - **Entregable:**
-  - [Design Scope canvas](https://miro.com/app/board/uXjVKqwph9g=/?share_link_id=576963829179)
-  - [Encuesta](https://forms.gle/y3bL1WCkfeZseenC7)
-  - [Respuestas Encuesta](https://docs.google.com/spreadsheets/d/1inBKybhgKkDbejxYmKWY0NywMjPWOkSb9bs_Pc5POCA/edit?usp=sharing)
-  - [Canvas](https://miro.com/app/board/uXjVKqw88vY=/?share_link_id=344638653691)
+  - [Encuesta](https://forms.gle/s4GzSveTeEMPE8np7)
+  - [Respuestas Encuesta](https://docs.google.com/spreadsheets/d/1nirOsLMj9LZSK1PVrNOA6lE2uzIg7tr-04HW7VB1_RA/edit?usp=sharing)
+  - [Design Scope canvas](https://miro.com/app/board/uXjVKqw88vY=/?share_link_id=344638653691)
 
 ## Semana 2
 - **Desarrollos:**
